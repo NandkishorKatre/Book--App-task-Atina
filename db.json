@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ramayn",
+      "email": "N narayan",
+      "mobile": "2023-12-20",
+      "city": 500
+    }
+  ],
+  "signup": [
+    {
+      "name": "N",
+      "email": "user@user.com",
+      "mobile": 8080537856,
+      "password": "8ed46d8",
+      "id": 2
+    },
+    {
+      "name": "N",
+      "email": "nandkishorkatre10@gmail.com",
+      "mobile": 8080537856,
+      "password": "Kk@12345",
+      "id": 2
+    }
+    
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
